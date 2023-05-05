@@ -9,8 +9,6 @@ To use the library in a C program, follow these steps:
 
 ## List of functions
 
-## List of functions
-
 ### Character functions
   - `ft_isalpha`: check if a character is alphabetic
   - `ft_isdigit`: check if a character is a digit
